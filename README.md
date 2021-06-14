@@ -28,7 +28,7 @@ After that, you can run the script like below.
 Usage
 ----
 
-Once you have completed everything above, here's how you use the script.
+Once you have completed everything above, here's how you can run the script.
 ```sh
 python tweetzotero.py -i <dewey-csv-file-path>
 ```
@@ -36,6 +36,7 @@ Example:
 ```sh
 python tweetzotero.py -i example.csv
 ```
+After running the script, just let the script complete tasks and don't do anything on your PC.
 For Help,
 ```sh
 python tweetzotero.py -h
