@@ -22,13 +22,13 @@ cd tweetzotero
 conda create --name tweetzotero --file requirements.txt -y
 conda activate tweetzotero
 ```
-**Now, paste all 4 twitter keys to the `keys.py` file.**
+**Now, paste all 4 twitter keys to the `keys.py` file.**<br/>
 After that, you can run the script like below.
 
 Usage
 ----
 
-Once you have completed everything above, here's how you can run the script.
+Once you have completed everything above, here's how you can run the script:
 ```sh
 python tweetzotero.py -i <dewey-csv-file-path>
 ```
@@ -36,7 +36,7 @@ Example:
 ```sh
 python tweetzotero.py -i example.csv
 ```
-After running the script, just let the script complete tasks and don't do anything on your PC. <br/>
+After running the script, just let the script complete tasks and don't do anything on your PC. <br/><br/>
 For Help,
 ```sh
 python tweetzotero.py -h
