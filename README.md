@@ -22,7 +22,7 @@ cd tweetzotero
 conda create --name tweetzotero --file requirements.txt -y
 conda activate tweetzotero
 ```
-**Now, paste all 4 twitter keys to the `keys.py` file.**<br/>
+**Now, paste all 4 twitter keys to the `keys.py` file.**<br/><br/>
 After that, you can run the script like below.
 
 Usage
