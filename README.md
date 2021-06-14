@@ -42,6 +42,14 @@ For Help,
 python tweetzotero.py -h
 ```
 
+Inspiration
+----
+The inspiration of this project came from [here](https://twitter.com/RiyueSunnyBao/status/1404126160167055361)
+
+Issues & Bugs
+----
+There could be many issues and bugs. Please report the issues and I'll try to resolve those.
+
 License
 ----
 
