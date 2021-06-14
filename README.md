@@ -1,6 +1,6 @@
 # tweetzotero
 
-tweetzotero is a python automation script that takes a csv file with tweet URLs, fetch all the external URLs from those example, and save those to Zotero.
+tweetzotero is a python automation script that takes a csv file with tweet status URLs as input, fetch all the external URLs from those tweets, and save those to Zotero.
 
 Prerequisites
 ----
