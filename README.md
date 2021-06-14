@@ -15,7 +15,7 @@ Here's the things that needs to be done before running the script:
 Setup
 ----
 
-Here's how you can get up and running:
+Here's how you can download the code and setup environments:
 ```sh
 git clone https://github.com/nahid18/tweetzotero.git
 cd tweetzotero
