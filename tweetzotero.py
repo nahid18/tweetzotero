@@ -7,7 +7,7 @@ import argparse
 import tweepy
 import time
 
-def fetch_urls_in_tweet(api, status_id):
+def fetch_urls_from_tweet(api, status_id):
     status = api.get_status(status_id, tweet_mode="extended")
     try:
         content = status.retweeted_status.full_text
@@ -25,7 +25,7 @@ def request_url(short_url):
 
 def get_extended_url(api, tweet_list):
     all_urls = list()
-    all_urls.extend(fetch_urls_in_tweet(api=api, status_id=i) for i in tweet_list)
+    all_urls.extend(fetch_urls_from_tweet(api=api, status_id=i) for i in tweet_list)
     all_urls = [item for sublist in all_urls for item in sublist]
     extended_urls = [request_url(i) for i in all_urls]
     save_list(inlist=extended_urls)
