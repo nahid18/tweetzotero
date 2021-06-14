@@ -44,7 +44,7 @@ python tweetzotero.py -h
 
 Inspiration
 ----
-The inspiration of this project came from [here](https://twitter.com/RiyueSunnyBao/status/1404126160167055361)
+The inspiration of this project came from [here](https://twitter.com/RiyueSunnyBao/status/1404126160167055361).
 
 Issues & Bugs
 ----
