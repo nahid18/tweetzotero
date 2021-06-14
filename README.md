@@ -8,7 +8,7 @@ Here's the things that needs to be done before running the script:
 1. Get your Twitter `API Key`, `API Secret`, `Access Token` and `Access Secret` from [here](https://developer.twitter.com/en/portal/dashboard).
 2. Set your default browser to `Google Chrome`. This script will work on this browser for now.
 3. Export your twitter bookmark URLs as `csv` with the chrome extension [Dewey](https://chrome.google.com/webstore/detail/dewey/occohfgiljdagdmklhpplgmcnliljmgi).
-4. Add Zotero extension to Google Chrome from [here](https://chrome.google.com/webstore/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc?hl=en). Also, install the Zotero app itself to your system. While running the script, the zotero app must be running.
+4. Add Zotero extension to Google Chrome from [here](https://chrome.google.com/webstore/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc?hl=en). Also, install the Zotero software itself to your system. While running the script, the zotero app must be running.
 5. `tweetzotero` uses the shortcut `ctrl/cmd + shift + s` on chrome to add the paper to zotero. So, make sure this shortcut actually works on chrome before running the script.
 6. Make sure you have `conda` installed. If not, then install from [here](https://docs.conda.io/en/latest/miniconda.html).
 
