@@ -1,4 +1,3 @@
-from bs4 import BeautifulSoup
 from keys import *
 import webbrowser
 import pyautogui
